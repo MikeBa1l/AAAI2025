@@ -28,7 +28,7 @@ Download pre-trained embedding  Nell and Wiki and put them into the ```emb``` fo
 
 This process employs the **Parameter-free Degree-based Aggregation (PDA)** method.
 
-```sh
+```
 python update_represenetations.py
 ```
 

@@ -16,11 +16,7 @@ pip install -r requirements.txt
 
 ## Data preparation
 
-Download [Nell-One](https://drive.google.com/file/d/15V_KPOVhuLOPA34uwRlB3d0YOx7e8-yU/view) and Wiki-One dataset from github.
-
-Download pre-trained embedding  Nell and Wiki and put them into the ```emb``` folder.
-
-> The datasets and the embeddings will be uploaded soon.
+Download [Nell-One](https://huggingface.co/datasets/mikepaul/Nell-One/tree/main) and [Wiki-One](https://huggingface.co/datasets/mikepaul/wiki-one/tree/main) dataset from github.
 
 ## FKGC
 

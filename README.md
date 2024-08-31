@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Data preparation
 
-Download [Nell-One](https://huggingface.co/datasets/mikepaul/Nell-One/tree/main) and [Wiki-One](https://huggingface.co/datasets/mikepaul/wiki-one/tree/main) dataset from github.
+Download [Nell-One](https://huggingface.co/datasets/mikepaul/Nell-One/tree/main) and [Wiki-One](https://huggingface.co/datasets/mikepaul/wiki-one/tree/main) dataset from huggingface.
 
 ## FKGC
 
